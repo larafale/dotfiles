@@ -1,0 +1,11 @@
+[user]
+	name = Louis Grellet
+	email = louis.grellet@gmail.com
+[alias]
+	fc = commit -a -m
+  st = status
+	co = checkout
+	logg = log --pretty=format:'%h [%an] %s' --graph
+	br = branch
+[push]
+	default = simple
